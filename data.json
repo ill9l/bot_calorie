@@ -1,0 +1,65 @@
+{
+  "374697317": {
+    "days": {
+      "2026-04-27": [
+        {
+          "name": "Борщ",
+          "calories": 180,
+          "protein": 8,
+          "carbs": 15,
+          "fat": 10
+        },
+        {
+          "name": "Лаваш",
+          "calories": 250,
+          "protein": 8,
+          "carbs": 48,
+          "fat": 3
+        },
+        {
+          "name": "Борщ",
+          "calories": 250,
+          "protein": 8,
+          "carbs": 20,
+          "fat": 15
+        },
+        {
+          "name": "Лаваш",
+          "calories": 180,
+          "protein": 5,
+          "carbs": 35,
+          "fat": 2
+        },
+        {
+          "name": "Джек Деніелс",
+          "calories": 490,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0
+        },
+        {
+          "name": "алкоголь",
+          "calories": 250,
+          "protein": 0,
+          "carbs": 0,
+          "fat": 0
+        },
+        {
+          "name": "Tomato soup",
+          "calories": 180,
+          "protein": 4,
+          "carbs": 28,
+          "fat": 6
+        },
+        {
+          "name": "Flour tortillas (2 pieces)",
+          "calories": 260,
+          "protein": 6,
+          "carbs": 44,
+          "fat": 7
+        }
+      ]
+    },
+    "goal": 2000
+  }
+}
